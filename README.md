@@ -5,7 +5,7 @@
   MRTnsWD
 ```
 </div>
-<h3 align="center">Student,UI/UX Designer, Frontend Developer, System Administration, IT Enthusiast, Penetration Tester</h3>
+<h3 align="center">Student, UI/UX Designer, Frontend Developer, System Administration, IT Enthusiast, Penetration Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtnswd&label=Profile%20views&color=0e75b6&style=plastic" alt="mrtnswd" /> </p>
 
