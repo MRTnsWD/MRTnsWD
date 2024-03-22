@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Flutter, Network, and DevSecOps**
 
-- 📫 How to reach me?, just contact my email **funtoshark@gmail.com**
+- 📫 How to reach me?, just contact my email [Here](funtoshark@gmail.com)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
