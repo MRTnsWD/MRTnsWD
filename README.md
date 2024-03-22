@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtnswd&label=Profile%20views&color=0e75b6&style=plastic" alt="mrtnswd" /> </p>
 
-- 🔭 I’m currently study on [Universitas Teknologi Bandung](https://sttbandung.ac.id/)
+- 🔭 I’m currently study on [University of Technology Bandung](https://sttbandung.ac.id/)
 
 - 🌱 I’m currently learning **Flutter, Network, and DevSecOps**
 
-- 📫 How to reach me?, just contact my email [Here](funtoshark@gmail.com)
+- 📫 How to reach me?, just contact my email [Here](mailto:funtoshark@gmail.com) or copy it ` funtoshark@gmail.com `
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
