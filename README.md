@@ -5,13 +5,13 @@
   MRTnsWD
 ```
 </div>
-<h3 align="center">Student and Frontend Developer</h3>
+<h3 align="center">Student, Frontend Developer, System Administration, IT Enthusiast, Penetration Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtnswd&label=Profile%20views&color=0e75b6&style=plastic" alt="mrtnswd" /> </p>
 
-- 🔭 I’m currently study on [Sekolah Tinggi Teknologi Bandung](https://sttbandung.ac.id/)
+- 🔭 I’m currently study on [Universitas Teknologi Bandung](https://sttbandung.ac.id/)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter, Network, and DevSecOps**
 
 - 📫 How to reach me?, just contact my email **funtoshark@gmail.com**
 
