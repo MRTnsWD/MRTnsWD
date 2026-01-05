@@ -25,7 +25,7 @@
 
 <h2 align="center" dir="auto">My Statistics</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtnswd&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mrtnswd" /><br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MRTnsWD&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mrtnswd" /><br />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrtnswd&show_icons=true&theme=tokyonight&locale=en" alt="mrtnswd" /><br />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtnswd&theme=dark" alt="mrtnswd" /><br />
 </p>
