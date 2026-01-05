@@ -6,7 +6,9 @@
 ```
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=1+YEAR+EXPERIENCE;+LINUX+SYSTEM+ADMINISTRATOR" alt="Typing SVG" /></a>
+<div align="center"> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=1+YEAR+EXPERIENCE;+LINUX+SYSTEM+ADMINISTRATOR" alt="Typing SVG" /></a>
+</div>
 
 <h3 align="center">Bachelor’s Degree in Informatics Engineering, UI/UX Designer, Frontend Developer, System Administration, Penetration Tester</h3>
 
@@ -28,8 +30,8 @@
 
 <h2 align="center" dir="auto">My Statistics</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtnswd&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mrtnswd" /><br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrtnswd&show_icons=true&theme=tokyonight&locale=en" alt="mrtnswd" /><br />
+  <!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtnswd&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="EROOR" /><br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrtnswd&show_icons=true&theme=tokyonight&locale=en" alt="ERROR" /><br /> -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtnswd&theme=dark" alt="mrtnswd" /><br />
 </p>
 
