@@ -5,11 +5,11 @@
   MRTnsWD
 ```
 </div>
-<h3 align="center">Student, UI/UX Designer, Frontend Developer, System Administration, IT Enthusiast, Penetration Tester</h3>
+<h3 align="center">Student, UI/UX Designer, Frontend Developer, System Administration, Penetration Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtnswd&label=Profile%20views&color=0e75b6&style=plastic" alt="mrtnswd" /> </p>
 
-- 🔭 I’m currently study on [University of Technology Bandung](https://sttbandung.ac.id/)
+- 🔭 I have graduated from [University of Technology Bandung](https://sttbandung.ac.id/) with a GPA of **3.65**
 
 - 🌱 I’m currently learning **Flutter, Network, and DevSecOps**
 
